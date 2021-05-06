@@ -1,0 +1,11 @@
+{
+  "name": "playjs-Sync_Promise_async_await",
+  "version": "1.0.0",
+  "scripts": {
+    "normal": "node normalCode.js",
+    "callback": "node callbackCode.js"
+  },
+  "dependencies": {
+
+  }
+}
