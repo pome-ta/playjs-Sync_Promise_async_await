@@ -6,7 +6,8 @@
     "callback": "node callbackCode.js",
     "Sync": "node SyncCode.js",
     "Promise": "node PromiseCode.js",
-    "promise-test": "node promise-test.js"
+    "promise-test01": "node promise-test01.js",
+    "promise-test02": "node promise-test02.js"
   },
   "dependencies": {
 
