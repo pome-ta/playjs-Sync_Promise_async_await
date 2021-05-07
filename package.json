@@ -7,7 +7,8 @@
     "Sync": "node SyncCode.js",
     "Promise": "node PromiseCode.js",
     "promise-test01": "node promise-test01.js",
-    "promise-test02": "node promise-test02.js"
+    "promise-test02": "node promise-test02.js",
+    "promiseChain": "node PromiseChain.js"
   },
   "dependencies": {
 
