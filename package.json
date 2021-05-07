@@ -4,7 +4,9 @@
   "scripts": {
     "normal": "node normalCode.js",
     "callback": "node callbackCode.js",
-    "Sync": "node SyncCode.js"
+    "Sync": "node SyncCode.js",
+    "Promise": "node PromiseCode.js",
+    "promise-test": "node promise-test.js"
   },
   "dependencies": {
 
