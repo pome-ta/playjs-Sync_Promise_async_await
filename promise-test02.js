@@ -23,4 +23,10 @@ new Promise((resolve) => {
 
 
 const now = new Date();
-console.log(now);
+const nowTime = {
+  h: now.getHours(),
+  m: now.getMinutes(),
+  s: now.getSeconds()
+}
+
+console.log(nowTime);
