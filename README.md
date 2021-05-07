@@ -11,6 +11,12 @@ Node.js は非同期処理。とある処理中でも別の処理をおこなっ
 
 ## Sync
 
+### `fs`モジュールでの Sync
+
+`appendFile` -> `appendFileSync`
+
+同期・非同期をモジュールの関数で選べる
+
 
 ## Promise
 
