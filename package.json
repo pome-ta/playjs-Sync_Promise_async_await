@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "normal": "node normalCode.js",
-    "callback": "node callbackCode.js"
+    "callback": "node callbackCode.js",
+    "Sync": "node SyncCode.js"
   },
   "dependencies": {
 
